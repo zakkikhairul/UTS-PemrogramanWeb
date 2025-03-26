@@ -170,4 +170,9 @@ form button:active {
         width: 150px;
         height: 150px;
     }
+
+    .materi {
+        max-width: 40%;
+    }
+
 }
